@@ -4,7 +4,8 @@ description: A skill for tracing systems of control through need, addiction, and
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.3684
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - control-machine-mapping
 - escalation
